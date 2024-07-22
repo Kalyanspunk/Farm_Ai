@@ -170,5 +170,6 @@ The Crop Management System dataset includes the following features:
 
 - [@kalyanspunk](https://github.com/Kalyanspunk)
 - [@JASWANTH](https://github.com/jaswanthmatrix)
+- [@Vishal](https://github.com/Vishalkaitha)
 
 
