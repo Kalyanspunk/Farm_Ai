@@ -168,7 +168,8 @@ The Crop Management System dataset includes the following features:
 - Yield Prediction: Input `State_Name`, `District_Name`, `Crop_Year`, `Season`, `Crop`, `Area`, `Production` to get predicted yields for that crop and location.
   ## Authors
 
-- [@kalyanspunk](https://github.com/Kalyanspunk)
+- [@kalyanspunk](https://github.com/Kalyanspunk
 
+  #some updations are in progress
 
 
