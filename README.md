@@ -170,6 +170,6 @@ The Crop Management System dataset includes the following features:
 
 - [@kalyanspunk](https://github.com/Kalyanspunk
 
-  #some updations are in progress .
+  #Going to update some output images this week
 
 
